@@ -1,4 +1,4 @@
-//https://github.com/MrDiablec/technology-of-programming/lesson1
+//https://github.com/MrDiablec/technology-of-programming/tree/main/lesson1
 /*
 Задание №2
 Напишите программу, выводящую на экран слово «Hello» с помощью функции “Printf()”.
