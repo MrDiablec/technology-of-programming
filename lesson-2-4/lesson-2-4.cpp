@@ -10,7 +10,7 @@
 
 int main(){
     int day;
-    printf("Введите логин:");
+    printf("Введите число дня недели:");
     if (scanf("%d",&day)==1){
         switch (day)
         {
